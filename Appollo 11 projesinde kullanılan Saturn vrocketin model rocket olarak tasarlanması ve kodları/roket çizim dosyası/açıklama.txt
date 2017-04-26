@@ -1,0 +1,1 @@
+bu kýsýmda open rocket ve rocketsim yazýlým dosyalarý simülasyon sonuclarý ve tasarýmlar yer almýstýr.Dosyalarý kontrol etmek için openrocketi yuklemeniz gerekmektedir.
