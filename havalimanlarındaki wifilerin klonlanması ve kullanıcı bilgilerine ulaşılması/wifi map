@@ -1,0 +1,20 @@
+https://www.google.com/maps/d/u/0/viewer?mid=1Z1dI8hoBZSJNWFx2xr_MMxSxSxY
+(Wifi şifrelerinin haritası program bilgileri bu haridatan çekicek.)
+
+Bu projedeki temel amacım insanların zaten bağlandıkları internet noktalarına olan garip ve bir o kadarda tehlikeli olan güvenlerinden geldi. Türk bir bilgisayar mühendisi tarafından yapılan dünya üzerindeki 235 havalimanın wifi şifrelerinin paylaşıldığı bir harita ile bu haritadan aldığı verileri evil twin yöntemi ile koplayarak kısacası middle man attack yaparak insanların kredi kartı,kişisel bilgileri,mail adressleri,yaşadıkları yerler ve birçok özel bilgiler kolayca ele geçirilebilir açıkcası sınav yaklaştığı için tam anlamıyla otonom olarak çalışan bir sistem yazamadım ama kayserideki havalimanında yapmış olduğum bir denemenin screenshotını sizlerle paylaşıyorum. Daha detaylı bilgi isterseniz bunlarıda söylemeniz yeterli kullandığım programlarıda altta sizlerle paylaşıcam.
+
+
+
+
+Kullanılan programlar:
+-Kali linux
+-Parrot Os
+-Meltego  (bilgiler alındıktan sonra diğer cihazlarıyla bağlantı kurmak için kullanılıyor.)
+-aircrack-ng suite
+-wireless adaptoru donanım olarak gerekli.
+-airdump-Ng
+-aireplay-ng 
+-airshark(bilgileri çekmek için)
+-ettercap
+
+
