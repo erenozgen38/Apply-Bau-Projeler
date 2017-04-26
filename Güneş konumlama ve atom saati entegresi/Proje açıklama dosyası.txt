@@ -1,0 +1,6 @@
+Projem solar position algorithm isimli ve dosyalar arasýnda yüklediðim makaleden yola çýkýlarak yapýlmýstýr. Temelde Güneþ Panellerinde Güneþi izlemek
+için çeþitli yollar kullanýlýr ancak burdaki algoritma Güneþin konumun ve ýþýnlarýnýn geliþ açýsýnýn belirlenmesini amaçlamaktadýr ancak algoritmayý geliþtirmek için 
+atom saati uygulamasýnýn normal algoritmaya gömmeye çalýþtým. Çýkan sonuçlarý karþýlaþtýrmayý yapmak için sizlerle paylaþýyorum. Ancak verim oraný hala çok düþük bunun sebebinin datalarýn gönderilmesi sýrasýnda
+kaybedilen zaman kaybý olduðunu düþünüyorum. Ancak geliþtirmeye devam ediceðim...
+
+Not: Makalede kullanýlan kodlarý indirebilmeniz için makalenin içindeki linkten yararlanabilirsiniz...
